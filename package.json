@@ -4,7 +4,7 @@
   "description": "Markov Chain Instagram Caption Generator - A node app to generate random captions that appear to be from a real Instagram user",
   "main": "index.js",
   "dependencies": {
-    "jsonpath": "^1.0.2",
+    "jsonpath": "^1.1.1",
     "titlegen": "^0.1.2"
   },
   "devDependencies": {},
